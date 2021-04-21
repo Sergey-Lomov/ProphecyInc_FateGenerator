@@ -122,5 +122,5 @@ final class FateGenerator {
         return values[index]
     }
     
-    // Local change 1
+    // Local change 2
 }
